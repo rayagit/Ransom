@@ -1,0 +1,7 @@
+print ("Hello, user!")
+print ("Welcome to LUCKYNO.!")
+While (BirthMonthNo.>12):
+    input (int(BirthMonthNo.))
+luckyno.=BirthMonthNo.*3
+print(luckyno.)
+   
